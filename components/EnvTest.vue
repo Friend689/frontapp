@@ -10,4 +10,4 @@
 
 <script setup>
 const config = useRuntimeConfig()
-</script> 
+</script>
